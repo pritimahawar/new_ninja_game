@@ -1,0 +1,13 @@
+h1 img
+{
+  width: 60px;
+}
+canvas {
+  display: block;
+  margin-top: -37%;
+  margin-left: 10%;
+}
+video{
+  margin-left:20%;
+  margin-top:20px;
+}
